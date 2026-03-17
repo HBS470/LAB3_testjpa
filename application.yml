@@ -1,0 +1,6 @@
+server.port: 9090
+spring.datasource.url: jdbc:postgresql://localhost/bd_isep
+spring.datasource.username: postgres
+spring.datasource.password: Madesu95470.
+spring.datasource.driver.class: org.postgresql.Driver
+spring.jpa.properties.hibernate.default_schema: lab1
